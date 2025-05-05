@@ -10,7 +10,6 @@
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Lua](https://img.shields.io/badge/-Lua-333?style=flat&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
