@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vitor Seabra
 
-- 🌍 I live in Cassino, Italy 🇮🇹  
+- 🌍 I live in Cassino, Italy :flag_it: 
 - 🎓 I’ve completed my social studies  
 - 📸 Instagram: [@vitinhusx](https://instagram.com/vitinhusx)  
 - ✨ Fun fact: Always learning something new!
