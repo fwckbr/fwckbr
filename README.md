@@ -2,7 +2,7 @@
 
 - 🌍 I live in Cassino, Italy  
 - 🎓 I’ve completed my social studies  
-- 📸 Instagram: [@vixtinhu](https://instagram.com/vixtinhu)  
+- 📸 Instagram: [@vitinhusx](https://instagram.com/vitinhusx)  
 - ✨ Fun fact: Always learning something new!
 
 ---
@@ -25,4 +25,4 @@
 ---
 
 ## 📱 Social:
-[![Instagram](https://img.shields.io/badge/-@vixtinhu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vixtinhu)
+[![Instagram](https://img.shields.io/badge/-@vixtinhu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vitinhusx)
