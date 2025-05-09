@@ -8,10 +8,10 @@
 ---
 
 ## 🛠️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
 ![Lua](https://skillicons.dev/icons?i=lua)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
