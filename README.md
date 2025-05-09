@@ -24,4 +24,4 @@
 ---
 
 ## 📱 Social:
-[![Instagram](https://img.shields.io/badge/-@vixtinhu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vitinhusx)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vitinhusx)
